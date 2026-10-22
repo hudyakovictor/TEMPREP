@@ -1,0 +1,29 @@
+действуй как ведущий gamedev разработчик AAA+ студии по разработке игры настольный тенис. управлени в игре либо свайпом (с мобильного телефона) либо мышкой (клик + движение) для десктопа  для начала изучи все эти источники и их шаблоны которые доступны для реализации в виде telegram mini apps (mobile first)   https://www.spaceui.one https://componentry.dev/ https://skecher-ui.com https://useplanes.com
+https://annnimate.com https://uselayouts.com/ https://uiarc.dev/ https://bencho.dev https://vault.hyperiux.com/ https://www.vantaui.com/ https://www.obsidianui.dev/ https://ui.beste.co
+https://evilcharts.com/ https://styles.refero.design https://www.inspora.design/?category=Motion https://21st.dev https://uiverse.io https://motion-primitives.com/ https://www.scrolltide.co https://microkit.co https://www.getlayers.ai https://ui.aceternity.com https://magicui.design/ https://kinetics.colorion.co https://microkit.co  для начала изучи все эти источники и их шаблоны которые доступны для реализации в виде telegram mini apps (mobile first). текущий дизайн был оценен в 10 баллов из 100 по 20 фактораи относительно AAA award-wining mobile game - animation iteration vfx - тывоя задача имея полную свободупеределать в 4 раза лучше
+  наверное примерно новую версию можно описать так:  Золотая середина интерфейса: 20% Спорт-Трансляция / 40% Жидкое Стекло / 40% Выпуклые 3D-Кнопки
+* 20% Cyber Broadcast Arena (отсылки к стадиону логотипа):
+    * Новая палитра Midnight Sapphire (#040B1A / #091936) + Рубин ракетки (#F02837) + Электро-циан (#14E2FF) + Кобальт (#2576FF).
+    * Прожекторы арены, боковые стадионные вымпелы, live-полоска телеметрии (LIVE · 3D ARENA 600Hz · ELO · серия) и обновлённый 3D WebGL-зал внутри самой игры (парные 6-линзовые прожекторы под сводом, красно-синие баннеры, ярусы трибун и LED-бортики корта в цветах логотипа).
+* 40% Spatial Liquid Glass (стеклянный интерфейс):
+    * Многослойное матовое сапфировое стекло (backdrop-filter: blur(22–26px) saturate(180%)) с тонким ледяным верхним бликом (inset 0 1.5px 0 rgba(255,255,255,.36)) для шапки topBar, Hero-сцены, Bento-карточек режимов, модальных окон, карточек предматча/послематча и плавающего нижнего дока.
+* 40% Tactile Convex Buttons (выпуклые 3D-кнопки вперемешку со стеклом):
+    * Все основные и второстепенные действия (.btn, .ult-cbtn, пилюли режимов, переключатели .seg, капсулы валют .wallet, кнопки сложности и центральная кнопка 🏓 3D БОЙ в доке) выполнены как выпуклые глянцевые 3D-кнопки с купольным верхним бликом, физическим экструдированным нижним бортиком (0 5px 0 ...) и ощутимым продавливанием при нажатии (translateY(4px)).
+  в папке с идеями лежит лого и которое можно детально отрисовать. в идеале интерфейс нужен - как золотая середина из всего чтобы были отсылки к пункту 1 + интерфейс был стеклянный в перемешку с выпуклыми кнопками- можетта сделать| 20% 40% 40%| - понял?
+
+в папке old лежит старая версия со старым меню. осторожно тк там много ошибок. соотвественно саму игру надо перенести в новую версию. но там полностью отсуствовали какие либо заставки и переходы до и после матча. а так же механика обучения построена очень не удобно тк в начале воообщене понять как надо бить..
+  ОБЯЗАТЕЛЬНЫЕ SKILLS
+
+px skills add [[[https://github.com/heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)](https://github.com/heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)](https://github.com/heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)](https://github.com/heygen-com/hyperframes](https://github.com/heygen-com/hyperframes))) --skill hyperframes-animation    
+    
+npx skills add [[[https://github.com/emilkowalski/skills](https://github.com/emilkowalski/skills)](https://github.com/emilkowalski/skills](https://github.com/emilkowalski/skills)](https://github.com/emilkowalski/skills](https://github.com/emilkowalski/skills)](https://github.com/emilkowalski/skills](https://github.com/emilkowalski/skills))) --skill find-animation-opportunities    
+    
+npx skills add [[[https://github.com/emilkowalski/skills](https://github.com/emilkowalski/skills)](https://github.com/emilkowalski/skills](https://github.com/emilkowalski/skills)](https://github.com/emilkowalski/skills](https://github.com/emilkowalski/skills)](https://github.com/emilkowalski/skills](https://github.com/emilkowalski/skills))) --skill animation-vocabulary    
+    
+npx skills add [[[https://github.com/emilkowalski/skills](https://github.com/emilkowalski/skills)](https://github.com/emilkowalski/skills](https://github.com/emilkowalski/skills)](https://github.com/emilkowalski/skills](https://github.com/emilkowalski/skills)](https://github.com/emilkowalski/skills](https://github.com/emilkowalski/skills))) --skill review-animations  
+
+game-development (mobile games) — https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/game-development
+
+→ применяй для: core loop, баланса, прогрессии, session design, retention loops
+
+telegram-mini-apps — https://skillmd.ai/skills/telegram-mini-apps/
