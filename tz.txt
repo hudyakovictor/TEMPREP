@@ -12,6 +12,11 @@ https://evilcharts.com/ https://styles.refero.design https://www.inspora.des
   в папке с идеями лежит лого и которое можно детально отрисовать. в идеале интерфейс нужен - как золотая середина из всего чтобы были отсылки к пункту 1 + интерфейс был стеклянный в перемешку с выпуклыми кнопками- можетта сделать| 20% 40% 40%| - понял?
 
 в папке old лежит старая версия со старым меню. осторожно тк там много ошибок. соотвественно саму игру надо перенести в новую версию. но там полностью отсуствовали какие либо заставки и переходы до и после матча. а так же механика обучения построена очень не удобно тк в начале воообщене понять как надо бить..
+
+
+помни что версия реализованная в файле casual 2d ui  по содержанию именно то что нужно - там идеальные анимации переходы и эффекты особенно с монетками которые залетают на аланс или вылетают. единственная проблема там дизайн слишком детскийю. поэтому все эффекты можно смело переносить в нуовую версию.
+
+
   ОБЯЗАТЕЛЬНЫЕ SKILLS
 
 px skills add [[[https://github.com/heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)](https://github.com/heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)](https://github.com/heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)](https://github.com/heygen-com/hyperframes](https://github.com/heygen-com/hyperframes))) --skill hyperframes-animation    
